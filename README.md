@@ -7,19 +7,19 @@ O **App Calorias** é um aplicativo simples desenvolvido em Flutter para registr
 ## Demonstração 📸
 
 ### 🔑 Login
-![Login](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c0aG1meGhtbjFxNHF4ZHZ5bXJyMWsweWJsOXI1YnFsa3l0MTJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPGEqUQ6gFd1aeXrfK/giphy.gif)
+![Login](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp0b2p4Z2ttNmh1b3hoOXpkaWlpZW1tM2NpNHY1OWlvczFvNXUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/291lWezbFVNqNjlifx/giphy.gif)
 
-### 👤 Página de Cadastro
-![Página de Cadastro](./assets/readme/cadastro.png)
+### 👤 Calculadora de Calorias
+![Calculadora de Calorias](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNyaGk1cGR4eXNrcGk5MWs4eHM0bjMwMWtwd3JzcnYyd200dXRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYP1cYhiIzuIPpBTvk/giphy.gif)
 
-### 💵 Entradas
-![Página de Entradas](./assets/readme/entradas.png)
+### 💵 Adicionando Refeição - Almoço
+![Página de Entradas](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdmZmNkM2g0dG5wMGxrNHZxemJhYzEzMGJtcThuMmo4dTFoZHBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RnI8sLkOEgwLDidCUw/giphy.gif)
 
-### 💸 Despesas
-![Página de Despesas](./assets/readme/despesas.png)
+### 💸 Adicionando Refeição - Lanches
+![Página de Despesas](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNqa3Uwbnc2Y3VqcDRoNmQ5OTV2eXQ4a25lYmlyajY5aTFvMmZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRfz8cnyLvqyLal1zT/giphy.gif)
 
-### 📈 Gráficos
-![Graficos](./assets/readme/graficos.png)
+### 📈 Total de Calorias
+![Total de Calorias](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c0aG1meGhtbjFxNHF4ZHZ5bXJyMWsweWJsOXI1YnFsa3l0MTJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPGEqUQ6gFd1aeXrfK/giphy.gif)
 
 ## Tecnologias Utilizadas ⚙️
 
