@@ -6,6 +6,21 @@ O **App Calorias** é um aplicativo simples desenvolvido em Flutter para registr
 
 ## Demonstração 📸
 
+### 🔑 Login
+![Login](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2c0aG1meGhtbjFxNHF4ZHZ5bXJyMWsweWJsOXI1YnFsa3l0MTJkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPGEqUQ6gFd1aeXrfK/giphy.gif)
+
+### 👤 Página de Cadastro
+![Página de Cadastro](./assets/readme/cadastro.png)
+
+### 💵 Entradas
+![Página de Entradas](./assets/readme/entradas.png)
+
+### 💸 Despesas
+![Página de Despesas](./assets/readme/despesas.png)
+
+### 📈 Gráficos
+![Graficos](./assets/readme/graficos.png)
+
 ## Tecnologias Utilizadas ⚙️
 
 - **Frontend**: Flutter (Dart)
