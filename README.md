@@ -1,8 +1,10 @@
 # App - Contador de Calorias 🍏
 
+O **App Calorias** é um aplicativo simples desenvolvido em Flutter para registrar e controlar as calorias consumidas ao longo do dia. 
+
 ## Objetivo do Projeto 🎯
 
-O **App Calorias** é um aplicativo simples desenvolvido em Flutter para registrar e controlar as calorias consumidas ao longo do dia. O objetivo é fornecer uma forma prática e intuitiva de registrar alimentos consumidos e calcular o total de calorias.
+O objetivo é fornecer uma forma prática e intuitiva de registrar alimentos consumidos e calcular o total de calorias.
 
 ## Demonstração 📸
 
